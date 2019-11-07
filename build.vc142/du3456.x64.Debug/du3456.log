@@ -1,0 +1,6 @@
+﻿  du3456g.cpp
+  du3456l.cpp
+c1xx : fatal error C1083: Nejde otevřít soubor zdroj: du3456g.cpp: No such file or directory
+  du3456sem.cpp
+  Generování kódu...
+C:\škola\lexikální analýza\mlaskal\private-src\du3456l.lex(15,11): fatal error C1083: Nejde otevřít soubor zahrnout: du3456g.hpp: No such file or directory

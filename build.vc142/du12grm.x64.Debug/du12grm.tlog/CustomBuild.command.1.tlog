@@ -1,0 +1,2 @@
+^C:\ŠKOLA\LEXIKÁLNÍ ANALÝZA\MLASKAL\PRIVATE-SRC\DU12L.LEX
+flex -Cf -b -p -p -odu12l.cpp "C:\škola\lexikální analýza\mlaskal\private-src\du12l.lex"
