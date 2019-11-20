@@ -19,8 +19,8 @@
 #include "gen_ainstr.hpp"
 
 namespace mlc {
-
-
+	std::string to_uppercase(std::string input);
+	unsigned long string_to_uint(std::string input);
 }
 
 #endif

@@ -11,7 +11,6 @@
 	#include "bisonflex.hpp"
 
 	// allow access to context 
-	// CHANGE THIS LINE TO #include "du3456g.hpp" WHEN THIS FILE IS COPIED TO du3456l.lex
 	#include "dummyg.hpp"
 	#include "du12sem.hpp"
 %}
